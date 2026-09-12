@@ -1,1 +1,13 @@
-.venv
+.venv/
+.env
+**/.env
+**/.streamlit/secrets.toml
+**/__pycache__/
+**/.pytest_cache/
+pytest-cache-files-*/
+**/target/
+**/dbt_packages/
+logs/
+tmp/
+.codex/
+Rafael_Dutra_Dados_IA.pdf

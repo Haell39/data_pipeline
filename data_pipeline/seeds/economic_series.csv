@@ -1,0 +1,5 @@
+series_code,indicator_key,indicator_name,category,unit,frequency,aggregation,display_order
+432,selic_target,Meta Selic,Juros,% a.a.,daily,last,1
+433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,last,2
+1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,last,3
+24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,last,4

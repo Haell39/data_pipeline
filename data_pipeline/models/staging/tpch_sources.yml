@@ -9,14 +9,15 @@ sources:
       - name: orders
         columns:
           - name: o_orderkey
-            tests:
+            data_tests:
               - not_null
               - unique
 
       - name: lineitem
         columns:
           - name: l_orderkey
-            tests:
+            data_tests:
               - relationships:
-                  to: source('tpch', 'orders')
-                  field: o_orderkey
+                  arguments:
+                    to: source('tpch', 'orders')
+                    field: o_orderkey

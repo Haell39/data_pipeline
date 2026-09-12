@@ -34,7 +34,25 @@ models:
     # Config indicated by + and applies to all files under models/example/
     staging:
       +materialized: view
-      snowflake_warehouse: dbt_wh
+      +snowflake_warehouse: DBT_WH
     marts:
       +materialized: table
-      snowflake_warehouse: dbt_wh
+      +snowflake_warehouse: DBT_WH
+    economic:
+      +tags: ["economic"]
+      staging:
+        +materialized: view
+        +snowflake_warehouse: DBT_WH
+      intermediate:
+        +materialized: view
+        +snowflake_warehouse: DBT_WH
+      marts:
+        +materialized: table
+        +snowflake_warehouse: DBT_WH
+
+seeds:
+  data_pipeline:
+    economic_series:
+      +column_types:
+        series_code: integer
+      +snowflake_warehouse: DBT_WH

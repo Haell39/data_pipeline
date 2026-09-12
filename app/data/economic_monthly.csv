@@ -1,0 +1,322 @@
+month,series_code,indicator_key,indicator_name,category,unit,frequency,value,monthly_average,observation_count,last_observation_date,loaded_at
+2020-01-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.2695,4.149464,22,2020-01-31,2026-09-12T20:03:05.795012+00:00
+2020-01-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,4.50,4.500000,31,2020-01-31,2026-09-12T20:02:56.791651+00:00
+2020-01-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.21,0.210000,1,2020-01-01,2026-09-12T20:03:03.956070+00:00
+2020-01-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,11.3,11.300000,1,2020-01-01,2026-09-12T20:03:10.389013+00:00
+2020-02-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.4987,4.341011,18,2020-02-28,2026-09-12T20:03:05.795012+00:00
+2020-02-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,4.25,4.293103,29,2020-02-29,2026-09-12T20:02:56.791651+00:00
+2020-02-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.25,0.250000,1,2020-02-01,2026-09-12T20:03:03.956070+00:00
+2020-02-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,11.7,11.700000,1,2020-02-01,2026-09-12T20:03:10.389013+00:00
+2020-03-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1987,4.883855,22,2020-03-31,2026-09-12T20:03:05.795012+00:00
+2020-03-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,3.75,4.040323,31,2020-03-31,2026-09-12T20:02:56.791651+00:00
+2020-03-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.07,0.070000,1,2020-03-01,2026-09-12T20:03:03.956070+00:00
+2020-03-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,12.4,12.400000,1,2020-03-01,2026-09-12T20:03:10.389013+00:00
+2020-04-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4270,5.325580,20,2020-04-30,2026-09-12T20:03:05.795012+00:00
+2020-04-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,3.75,3.750000,30,2020-04-30,2026-09-12T20:02:56.791651+00:00
+2020-04-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,-0.31,-0.310000,1,2020-04-01,2026-09-12T20:03:03.956070+00:00
+2020-04-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,12.7,12.700000,1,2020-04-01,2026-09-12T20:03:10.389013+00:00
+2020-05-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4263,5.643445,20,2020-05-29,2026-09-12T20:03:05.795012+00:00
+2020-05-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,3.00,3.145161,31,2020-05-31,2026-09-12T20:02:56.791651+00:00
+2020-05-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,-0.38,-0.380000,1,2020-05-01,2026-09-12T20:03:03.956070+00:00
+2020-05-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,13.1,13.100000,1,2020-05-01,2026-09-12T20:03:10.389013+00:00
+2020-06-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4760,5.196600,21,2020-06-30,2026-09-12T20:03:05.795012+00:00
+2020-06-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.25,2.675000,30,2020-06-30,2026-09-12T20:02:56.791651+00:00
+2020-06-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.26,0.260000,1,2020-06-01,2026-09-12T20:03:03.956070+00:00
+2020-06-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,13.6,13.600000,1,2020-06-01,2026-09-12T20:03:10.389013+00:00
+2020-07-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2033,5.280191,23,2020-07-31,2026-09-12T20:03:05.795012+00:00
+2020-07-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.25,2.250000,31,2020-07-31,2026-09-12T20:02:56.791651+00:00
+2020-07-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.36,0.360000,1,2020-07-01,2026-09-12T20:03:03.956070+00:00
+2020-07-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.1,14.100000,1,2020-07-01,2026-09-12T20:03:10.389013+00:00
+2020-08-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4713,5.461233,21,2020-08-31,2026-09-12T20:03:05.795012+00:00
+2020-08-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.00,2.040323,31,2020-08-31,2026-09-12T20:02:56.791651+00:00
+2020-08-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.24,0.240000,1,2020-08-01,2026-09-12T20:03:03.956070+00:00
+2020-08-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.8,14.800000,1,2020-08-01,2026-09-12T20:03:10.389013+00:00
+2020-09-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.6407,5.399486,21,2020-09-30,2026-09-12T20:03:05.795012+00:00
+2020-09-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.00,2.000000,30,2020-09-30,2026-09-12T20:02:56.791651+00:00
+2020-09-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.64,0.640000,1,2020-09-01,2026-09-12T20:03:03.956070+00:00
+2020-09-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.9,14.900000,1,2020-09-01,2026-09-12T20:03:10.389013+00:00
+2020-10-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.7718,5.625790,21,2020-10-30,2026-09-12T20:03:05.795012+00:00
+2020-10-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.00,2.000000,31,2020-10-31,2026-09-12T20:02:56.791651+00:00
+2020-10-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.86,0.860000,1,2020-10-01,2026-09-12T20:03:03.956070+00:00
+2020-10-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.6,14.600000,1,2020-10-01,2026-09-12T20:03:10.389013+00:00
+2020-11-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.3317,5.417835,20,2020-11-30,2026-09-12T20:03:05.795012+00:00
+2020-11-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.00,2.000000,30,2020-11-30,2026-09-12T20:02:56.791651+00:00
+2020-11-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.89,0.890000,1,2020-11-01,2026-09-12T20:03:03.956070+00:00
+2020-11-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.3,14.300000,1,2020-11-01,2026-09-12T20:03:10.389013+00:00
+2020-12-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1967,5.145586,22,2020-12-31,2026-09-12T20:03:05.795012+00:00
+2020-12-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.00,2.000000,31,2020-12-31,2026-09-12T20:02:56.791651+00:00
+2020-12-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,1.35,1.350000,1,2020-12-01,2026-09-12T20:03:03.956070+00:00
+2020-12-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.2,14.200000,1,2020-12-01,2026-09-12T20:03:10.389013+00:00
+2021-01-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4759,5.356245,20,2021-01-29,2026-09-12T20:03:05.795012+00:00
+2021-01-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.00,2.000000,31,2021-01-31,2026-09-12T20:02:56.791651+00:00
+2021-01-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.25,0.250000,1,2021-01-01,2026-09-12T20:03:03.956070+00:00
+2021-01-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.4,14.400000,1,2021-01-01,2026-09-12T20:03:10.389013+00:00
+2021-02-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.5302,5.416494,18,2021-02-26,2026-09-12T20:03:05.795012+00:00
+2021-02-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.00,2.000000,28,2021-02-28,2026-09-12T20:02:56.791651+00:00
+2021-02-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.86,0.860000,1,2021-02-01,2026-09-12T20:03:03.956070+00:00
+2021-02-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.6,14.600000,1,2021-02-01,2026-09-12T20:03:10.389013+00:00
+2021-03-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.6973,5.646148,23,2021-03-31,2026-09-12T20:03:05.795012+00:00
+2021-03-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.75,2.338710,31,2021-03-31,2026-09-12T20:02:56.791651+00:00
+2021-03-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.93,0.930000,1,2021-03-01,2026-09-12T20:03:03.956070+00:00
+2021-03-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.9,14.900000,1,2021-03-01,2026-09-12T20:03:10.389013+00:00
+2021-04-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4036,5.562135,20,2021-04-30,2026-09-12T20:03:05.795012+00:00
+2021-04-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,2.75,2.750000,30,2021-04-30,2026-09-12T20:02:56.791651+00:00
+2021-04-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.31,0.310000,1,2021-04-01,2026-09-12T20:03:03.956070+00:00
+2021-04-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.8,14.800000,1,2021-04-01,2026-09-12T20:03:10.389013+00:00
+2021-05-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2322,5.291057,21,2021-05-31,2026-09-12T20:03:05.795012+00:00
+2021-05-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,3.50,3.379032,31,2021-05-31,2026-09-12T20:02:56.791651+00:00
+2021-05-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.83,0.830000,1,2021-05-01,2026-09-12T20:03:03.956070+00:00
+2021-05-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.7,14.700000,1,2021-05-01,2026-09-12T20:03:10.389013+00:00
+2021-06-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0022,5.031905,21,2021-06-30,2026-09-12T20:03:05.795012+00:00
+2021-06-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,4.25,3.850000,30,2021-06-30,2026-09-12T20:02:56.791651+00:00
+2021-06-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.53,0.530000,1,2021-06-01,2026-09-12T20:03:03.956070+00:00
+2021-06-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,14.2,14.200000,1,2021-06-01,2026-09-12T20:03:10.389013+00:00
+2021-07-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1216,5.156705,22,2021-07-30,2026-09-12T20:03:05.795012+00:00
+2021-07-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,4.25,4.250000,31,2021-07-31,2026-09-12T20:02:56.791651+00:00
+2021-07-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.96,0.960000,1,2021-07-01,2026-09-12T20:03:03.956070+00:00
+2021-07-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,13.7,13.700000,1,2021-07-01,2026-09-12T20:03:10.389013+00:00
+2021-08-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1433,5.251718,22,2021-08-31,2026-09-12T20:03:05.795012+00:00
+2021-08-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,5.25,5.120968,31,2021-08-31,2026-09-12T20:02:56.791651+00:00
+2021-08-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.87,0.870000,1,2021-08-01,2026-09-12T20:03:03.956070+00:00
+2021-08-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,13.2,13.200000,1,2021-08-01,2026-09-12T20:03:10.389013+00:00
+2021-09-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4394,5.279690,21,2021-09-30,2026-09-12T20:03:05.795012+00:00
+2021-09-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,6.25,5.516667,30,2021-09-30,2026-09-12T20:02:56.791651+00:00
+2021-09-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,1.16,1.160000,1,2021-09-01,2026-09-12T20:03:03.956070+00:00
+2021-09-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,12.7,12.700000,1,2021-09-01,2026-09-12T20:03:10.389013+00:00
+2021-10-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.6430,5.539980,20,2021-10-29,2026-09-12T20:03:05.795012+00:00
+2021-10-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,7.75,6.443548,31,2021-10-31,2026-09-12T20:02:56.791651+00:00
+2021-10-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,1.25,1.250000,1,2021-10-01,2026-09-12T20:03:03.956070+00:00
+2021-10-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,12.1,12.100000,1,2021-10-01,2026-09-12T20:03:10.389013+00:00
+2021-11-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.6199,5.556860,20,2021-11-30,2026-09-12T20:03:05.795012+00:00
+2021-11-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,7.75,7.750000,30,2021-11-30,2026-09-12T20:02:56.791651+00:00
+2021-11-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.95,0.950000,1,2021-11-01,2026-09-12T20:03:03.956070+00:00
+2021-11-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,11.6,11.600000,1,2021-11-01,2026-09-12T20:03:10.389013+00:00
+2021-12-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.5805,5.651391,23,2021-12-31,2026-09-12T20:03:05.795012+00:00
+2021-12-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,9.25,8.862903,31,2021-12-31,2026-09-12T20:02:56.791651+00:00
+2021-12-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.73,0.730000,1,2021-12-01,2026-09-12T20:03:03.956070+00:00
+2021-12-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,11.1,11.100000,1,2021-12-01,2026-09-12T20:03:10.389013+00:00
+2022-01-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.3574,5.534105,21,2022-01-31,2026-09-12T20:03:05.795012+00:00
+2022-01-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,9.25,9.250000,31,2022-01-31,2026-09-12T20:02:56.791651+00:00
+2022-01-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.54,0.540000,1,2022-01-01,2026-09-12T20:03:03.956070+00:00
+2022-01-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,11.2,11.200000,1,2022-01-01,2026-09-12T20:03:10.389013+00:00
+2022-02-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1394,5.196579,19,2022-02-25,2026-09-12T20:03:05.795012+00:00
+2022-02-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,10.75,10.642857,28,2022-02-28,2026-09-12T20:02:56.791651+00:00
+2022-02-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,1.01,1.010000,1,2022-02-01,2026-09-12T20:03:03.956070+00:00
+2022-02-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,11.2,11.200000,1,2022-02-01,2026-09-12T20:03:10.389013+00:00
+2022-03-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.7378,4.968382,22,2022-03-31,2026-09-12T20:03:05.795012+00:00
+2022-03-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,11.75,11.233871,31,2022-03-31,2026-09-12T20:02:56.791651+00:00
+2022-03-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,1.62,1.620000,1,2022-03-01,2026-09-12T20:03:03.956070+00:00
+2022-03-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,11.1,11.100000,1,2022-03-01,2026-09-12T20:03:10.389013+00:00
+2022-04-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.9191,4.758016,19,2022-04-29,2026-09-12T20:03:05.795012+00:00
+2022-04-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,11.75,11.750000,30,2022-04-30,2026-09-12T20:02:56.791651+00:00
+2022-04-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,1.06,1.060000,1,2022-04-01,2026-09-12T20:03:03.956070+00:00
+2022-04-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,10.5,10.500000,1,2022-04-01,2026-09-12T20:03:10.389013+00:00
+2022-05-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.7289,4.955050,22,2022-05-31,2026-09-12T20:03:05.795012+00:00
+2022-05-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,12.75,12.620968,31,2022-05-31,2026-09-12T20:02:56.791651+00:00
+2022-05-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.47,0.470000,1,2022-05-01,2026-09-12T20:03:03.956070+00:00
+2022-05-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,9.8,9.800000,1,2022-05-01,2026-09-12T20:03:10.389013+00:00
+2022-06-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2380,5.049210,21,2022-06-30,2026-09-12T20:03:05.795012+00:00
+2022-06-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.25,13.000000,30,2022-06-30,2026-09-12T20:02:56.791651+00:00
+2022-06-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.67,0.670000,1,2022-06-01,2026-09-12T20:03:03.956070+00:00
+2022-06-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,9.3,9.300000,1,2022-06-01,2026-09-12T20:03:10.389013+00:00
+2022-07-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1884,5.368071,21,2022-07-29,2026-09-12T20:03:05.795012+00:00
+2022-07-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.25,13.250000,31,2022-07-31,2026-09-12T20:02:56.791651+00:00
+2022-07-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,-0.68,-0.680000,1,2022-07-01,2026-09-12T20:03:03.956070+00:00
+2022-07-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,9.1,9.100000,1,2022-07-01,2026-09-12T20:03:10.389013+00:00
+2022-08-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1790,5.143287,23,2022-08-31,2026-09-12T20:03:05.795012+00:00
+2022-08-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.701613,31,2022-08-31,2026-09-12T20:02:56.791651+00:00
+2022-08-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,-0.36,-0.360000,1,2022-08-01,2026-09-12T20:03:03.956070+00:00
+2022-08-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.9,8.900000,1,2022-08-01,2026-09-12T20:03:10.389013+00:00
+2022-09-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4066,5.236957,21,2022-09-30,2026-09-12T20:03:05.795012+00:00
+2022-09-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,30,2022-09-30,2026-09-12T20:02:56.791651+00:00
+2022-09-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,-0.29,-0.290000,1,2022-09-01,2026-09-12T20:03:03.956070+00:00
+2022-09-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.7,8.700000,1,2022-09-01,2026-09-12T20:03:10.389013+00:00
+2022-10-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2570,5.250300,20,2022-10-31,2026-09-12T20:03:05.795012+00:00
+2022-10-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,31,2022-10-31,2026-09-12T20:02:56.791651+00:00
+2022-10-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.59,0.590000,1,2022-10-01,2026-09-12T20:03:03.956070+00:00
+2022-10-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.3,8.300000,1,2022-10-01,2026-09-12T20:03:10.389013+00:00
+2022-11-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2941,5.274650,20,2022-11-30,2026-09-12T20:03:05.795012+00:00
+2022-11-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,30,2022-11-30,2026-09-12T20:02:56.791651+00:00
+2022-11-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.41,0.410000,1,2022-11-01,2026-09-12T20:03:03.956070+00:00
+2022-11-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.1,8.100000,1,2022-11-01,2026-09-12T20:03:10.389013+00:00
+2022-12-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2177,5.242432,22,2022-12-30,2026-09-12T20:03:05.795012+00:00
+2022-12-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,31,2022-12-31,2026-09-12T20:02:56.791651+00:00
+2022-12-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.62,0.620000,1,2022-12-01,2026-09-12T20:03:03.956070+00:00
+2022-12-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.9,7.900000,1,2022-12-01,2026-09-12T20:03:10.389013+00:00
+2023-01-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0993,5.200682,22,2023-01-31,2026-09-12T20:03:05.795012+00:00
+2023-01-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,31,2023-01-31,2026-09-12T20:02:56.791651+00:00
+2023-01-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.53,0.530000,1,2023-01-01,2026-09-12T20:03:03.956070+00:00
+2023-01-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.4,8.400000,1,2023-01-01,2026-09-12T20:03:10.389013+00:00
+2023-02-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2078,5.171689,18,2023-02-28,2026-09-12T20:03:05.795012+00:00
+2023-02-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,28,2023-02-28,2026-09-12T20:02:56.791651+00:00
+2023-02-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.84,0.840000,1,2023-02-01,2026-09-12T20:03:03.956070+00:00
+2023-02-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.6,8.600000,1,2023-02-01,2026-09-12T20:03:10.389013+00:00
+2023-03-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0804,5.211461,23,2023-03-31,2026-09-12T20:03:05.795012+00:00
+2023-03-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,31,2023-03-31,2026-09-12T20:02:56.791651+00:00
+2023-03-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.71,0.710000,1,2023-03-01,2026-09-12T20:03:03.956070+00:00
+2023-03-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.8,8.800000,1,2023-03-01,2026-09-12T20:03:10.389013+00:00
+2023-04-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0007,5.019733,18,2023-04-28,2026-09-12T20:03:05.795012+00:00
+2023-04-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,30,2023-04-30,2026-09-12T20:02:56.791651+00:00
+2023-04-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.61,0.610000,1,2023-04-01,2026-09-12T20:03:03.956070+00:00
+2023-04-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.5,8.500000,1,2023-04-01,2026-09-12T20:03:10.389013+00:00
+2023-05-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0959,4.982836,22,2023-05-31,2026-09-12T20:03:05.795012+00:00
+2023-05-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,31,2023-05-31,2026-09-12T20:02:56.791651+00:00
+2023-05-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.23,0.230000,1,2023-05-01,2026-09-12T20:03:03.956070+00:00
+2023-05-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.3,8.300000,1,2023-05-01,2026-09-12T20:03:10.389013+00:00
+2023-06-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.8192,4.851567,21,2023-06-30,2026-09-12T20:03:05.795012+00:00
+2023-06-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,30,2023-06-30,2026-09-12T20:02:56.791651+00:00
+2023-06-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,-0.08,-0.080000,1,2023-06-01,2026-09-12T20:03:03.956070+00:00
+2023-06-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,8.0,8.000000,1,2023-06-01,2026-09-12T20:03:10.389013+00:00
+2023-07-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.7415,4.800833,21,2023-07-31,2026-09-12T20:03:05.795012+00:00
+2023-07-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.75,13.750000,31,2023-07-31,2026-09-12T20:02:56.791651+00:00
+2023-07-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.12,0.120000,1,2023-07-01,2026-09-12T20:03:03.956070+00:00
+2023-07-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.9,7.900000,1,2023-07-01,2026-09-12T20:03:10.389013+00:00
+2023-08-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.9219,4.903543,23,2023-08-31,2026-09-12T20:03:05.795012+00:00
+2023-08-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.25,13.282258,31,2023-08-31,2026-09-12T20:02:56.791651+00:00
+2023-08-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.23,0.230000,1,2023-08-01,2026-09-12T20:03:03.956070+00:00
+2023-08-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.8,7.800000,1,2023-08-01,2026-09-12T20:03:10.389013+00:00
+2023-09-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0076,4.936990,20,2023-09-29,2026-09-12T20:03:05.795012+00:00
+2023-09-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,12.75,13.083333,30,2023-09-30,2026-09-12T20:02:56.791651+00:00
+2023-09-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.26,0.260000,1,2023-09-01,2026-09-12T20:03:03.956070+00:00
+2023-09-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.7,7.700000,1,2023-09-01,2026-09-12T20:03:10.389013+00:00
+2023-10-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0575,5.064843,21,2023-10-31,2026-09-12T20:03:05.795012+00:00
+2023-10-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,12.75,12.750000,31,2023-10-31,2026-09-12T20:02:56.791651+00:00
+2023-10-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.24,0.240000,1,2023-10-01,2026-09-12T20:03:03.956070+00:00
+2023-10-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.6,7.600000,1,2023-10-01,2026-09-12T20:03:10.389013+00:00
+2023-11-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.9355,4.898340,20,2023-11-30,2026-09-12T20:03:05.795012+00:00
+2023-11-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,12.25,12.266667,30,2023-11-30,2026-09-12T20:02:56.791651+00:00
+2023-11-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.28,0.280000,1,2023-11-01,2026-09-12T20:03:03.956070+00:00
+2023-11-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.5,7.500000,1,2023-11-01,2026-09-12T20:03:10.389013+00:00
+2023-12-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.8413,4.897245,20,2023-12-29,2026-09-12T20:03:05.795012+00:00
+2023-12-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,11.75,11.959677,31,2023-12-31,2026-09-12T20:02:56.791651+00:00
+2023-12-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.56,0.560000,1,2023-12-01,2026-09-12T20:03:03.956070+00:00
+2023-12-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.4,7.400000,1,2023-12-01,2026-09-12T20:03:10.389013+00:00
+2024-01-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.9535,4.914395,22,2024-01-31,2026-09-12T20:03:05.795012+00:00
+2024-01-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,11.75,11.750000,31,2024-01-31,2026-09-12T20:02:56.791651+00:00
+2024-01-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.42,0.420000,1,2024-01-01,2026-09-12T20:03:03.956070+00:00
+2024-01-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.6,7.600000,1,2024-01-01,2026-09-12T20:03:10.389013+00:00
+2024-02-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.9833,4.964389,19,2024-02-29,2026-09-12T20:03:05.795012+00:00
+2024-02-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,11.25,11.250000,29,2024-02-29,2026-09-12T20:02:56.791651+00:00
+2024-02-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.83,0.830000,1,2024-02-01,2026-09-12T20:03:03.956070+00:00
+2024-02-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.8,7.800000,1,2024-02-01,2026-09-12T20:03:10.389013+00:00
+2024-03-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.9962,4.980135,20,2024-03-28,2026-09-12T20:03:05.795012+00:00
+2024-03-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,10.75,11.072581,31,2024-03-31,2026-09-12T20:02:56.791651+00:00
+2024-03-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.16,0.160000,1,2024-03-01,2026-09-12T20:03:03.956070+00:00
+2024-03-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.9,7.900000,1,2024-03-01,2026-09-12T20:03:10.389013+00:00
+2024-04-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1718,5.129095,22,2024-04-30,2026-09-12T20:03:05.795012+00:00
+2024-04-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,10.75,10.750000,30,2024-04-30,2026-09-12T20:02:56.791651+00:00
+2024-04-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.38,0.380000,1,2024-04-01,2026-09-12T20:03:03.956070+00:00
+2024-04-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.5,7.500000,1,2024-04-01,2026-09-12T20:03:10.389013+00:00
+2024-05-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2416,5.133048,21,2024-05-31,2026-09-12T20:03:05.795012+00:00
+2024-05-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,10.50,10.564516,31,2024-05-31,2026-09-12T20:02:56.791651+00:00
+2024-05-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.46,0.460000,1,2024-05-01,2026-09-12T20:03:03.956070+00:00
+2024-05-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.1,7.100000,1,2024-05-01,2026-09-12T20:03:10.389013+00:00
+2024-06-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.5589,5.388975,20,2024-06-28,2026-09-12T20:03:05.795012+00:00
+2024-06-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,10.50,10.500000,30,2024-06-30,2026-09-12T20:02:56.791651+00:00
+2024-06-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.21,0.210000,1,2024-06-01,2026-09-12T20:03:03.956070+00:00
+2024-06-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.9,6.900000,1,2024-06-01,2026-09-12T20:03:10.389013+00:00
+2024-07-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.6621,5.542048,23,2024-07-31,2026-09-12T20:03:05.795012+00:00
+2024-07-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,10.50,10.500000,31,2024-07-31,2026-09-12T20:02:56.791651+00:00
+2024-07-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.38,0.380000,1,2024-07-01,2026-09-12T20:03:03.956070+00:00
+2024-07-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.8,6.800000,1,2024-07-01,2026-09-12T20:03:10.389013+00:00
+2024-08-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.6562,5.552614,22,2024-08-30,2026-09-12T20:03:05.795012+00:00
+2024-08-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,10.50,10.500000,31,2024-08-31,2026-09-12T20:02:56.791651+00:00
+2024-08-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,-0.02,-0.020000,1,2024-08-01,2026-09-12T20:03:03.956070+00:00
+2024-08-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.6,6.600000,1,2024-08-01,2026-09-12T20:03:10.389013+00:00
+2024-09-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4481,5.541567,21,2024-09-30,2026-09-12T20:03:05.795012+00:00
+2024-09-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,10.75,10.600000,30,2024-09-30,2026-09-12T20:02:56.791651+00:00
+2024-09-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.44,0.440000,1,2024-09-01,2026-09-12T20:03:03.956070+00:00
+2024-09-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.4,6.400000,1,2024-09-01,2026-09-12T20:03:10.389013+00:00
+2024-10-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.7779,5.624109,23,2024-10-31,2026-09-12T20:03:05.795012+00:00
+2024-10-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,10.75,10.750000,31,2024-10-31,2026-09-12T20:02:56.791651+00:00
+2024-10-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.56,0.560000,1,2024-10-01,2026-09-12T20:03:03.956070+00:00
+2024-10-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.2,6.200000,1,2024-10-01,2026-09-12T20:03:10.389013+00:00
+2024-11-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,6.0535,5.807058,19,2024-11-29,2026-09-12T20:03:05.795012+00:00
+2024-11-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,11.25,11.150000,30,2024-11-30,2026-09-12T20:02:56.791651+00:00
+2024-11-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.39,0.390000,1,2024-11-01,2026-09-12T20:03:03.956070+00:00
+2024-11-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.1,6.100000,1,2024-11-01,2026-09-12T20:03:10.389013+00:00
+2024-12-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,6.1923,6.097029,21,2024-12-31,2026-09-12T20:03:05.795012+00:00
+2024-12-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,12.25,11.895161,31,2024-12-31,2026-09-12T20:02:56.791651+00:00
+2024-12-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.52,0.520000,1,2024-12-01,2026-09-12T20:03:03.956070+00:00
+2024-12-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.2,6.200000,1,2024-12-01,2026-09-12T20:03:10.389013+00:00
+2025-01-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.8301,6.021773,22,2025-01-31,2026-09-12T20:03:05.795012+00:00
+2025-01-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.25,12.314516,31,2025-01-31,2026-09-12T20:02:56.791651+00:00
+2025-01-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.16,0.160000,1,2025-01-01,2026-09-12T20:03:03.956070+00:00
+2025-01-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.5,6.500000,1,2025-01-01,2026-09-12T20:03:10.389013+00:00
+2025-02-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.8488,5.765645,20,2025-02-28,2026-09-12T20:03:05.795012+00:00
+2025-02-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,13.25,13.250000,28,2025-02-28,2026-09-12T20:02:56.791651+00:00
+2025-02-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,1.31,1.310000,1,2025-02-01,2026-09-12T20:03:03.956070+00:00
+2025-02-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.8,6.800000,1,2025-02-01,2026-09-12T20:03:10.389013+00:00
+2025-03-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.7422,5.746811,19,2025-03-31,2026-09-12T20:03:05.795012+00:00
+2025-03-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.25,13.637097,31,2025-03-31,2026-09-12T20:02:56.791651+00:00
+2025-03-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.56,0.560000,1,2025-03-01,2026-09-12T20:03:03.956070+00:00
+2025-03-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,7.0,7.000000,1,2025-03-01,2026-09-12T20:03:10.389013+00:00
+2025-04-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.6608,5.783675,20,2025-04-30,2026-09-12T20:03:05.795012+00:00
+2025-04-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.25,14.250000,30,2025-04-30,2026-09-12T20:02:56.791651+00:00
+2025-04-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.43,0.430000,1,2025-04-01,2026-09-12T20:03:03.956070+00:00
+2025-04-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.6,6.600000,1,2025-04-01,2026-09-12T20:03:10.389013+00:00
+2025-05-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.7087,5.667386,21,2025-05-30,2026-09-12T20:03:05.795012+00:00
+2025-05-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.75,14.637097,31,2025-05-31,2026-09-12T20:02:56.791651+00:00
+2025-05-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.26,0.260000,1,2025-05-01,2026-09-12T20:03:03.956070+00:00
+2025-05-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.2,6.200000,1,2025-05-01,2026-09-12T20:03:10.389013+00:00
+2025-06-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4571,5.547055,20,2025-06-30,2026-09-12T20:03:05.795012+00:00
+2025-06-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,15.00,14.850000,30,2025-06-30,2026-09-12T20:02:56.791651+00:00
+2025-06-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.24,0.240000,1,2025-06-01,2026-09-12T20:03:03.956070+00:00
+2025-06-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.8,5.800000,1,2025-06-01,2026-09-12T20:03:10.389013+00:00
+2025-07-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.6021,5.528491,23,2025-07-31,2026-09-12T20:03:05.795012+00:00
+2025-07-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,15.00,15.000000,31,2025-07-31,2026-09-12T20:02:56.791651+00:00
+2025-07-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.26,0.260000,1,2025-07-01,2026-09-12T20:03:03.956070+00:00
+2025-07-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.6,5.600000,1,2025-07-01,2026-09-12T20:03:10.389013+00:00
+2025-08-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.4264,5.446924,21,2025-08-29,2026-09-12T20:03:05.795012+00:00
+2025-08-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,15.00,15.000000,31,2025-08-31,2026-09-12T20:02:56.791651+00:00
+2025-08-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,-0.11,-0.110000,1,2025-08-01,2026-09-12T20:03:03.956070+00:00
+2025-08-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.6,5.600000,1,2025-08-01,2026-09-12T20:03:10.389013+00:00
+2025-09-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.3186,5.367409,22,2025-09-30,2026-09-12T20:03:05.795012+00:00
+2025-09-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,15.00,15.000000,30,2025-09-30,2026-09-12T20:02:56.791651+00:00
+2025-09-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.48,0.480000,1,2025-09-01,2026-09-12T20:03:03.956070+00:00
+2025-09-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.6,5.600000,1,2025-09-01,2026-09-12T20:03:10.389013+00:00
+2025-10-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.3843,5.385526,23,2025-10-31,2026-09-12T20:03:05.795012+00:00
+2025-10-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,15.00,15.000000,31,2025-10-31,2026-09-12T20:02:56.791651+00:00
+2025-10-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.09,0.090000,1,2025-10-01,2026-09-12T20:03:03.956070+00:00
+2025-10-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.4,5.400000,1,2025-10-01,2026-09-12T20:03:10.389013+00:00
+2025-11-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.3338,5.340853,19,2025-11-28,2026-09-12T20:03:05.795012+00:00
+2025-11-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,15.00,15.000000,30,2025-11-30,2026-09-12T20:02:56.791651+00:00
+2025-11-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.18,0.180000,1,2025-11-01,2026-09-12T20:03:03.956070+00:00
+2025-11-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.2,5.200000,1,2025-11-01,2026-09-12T20:03:10.389013+00:00
+2025-12-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.5024,5.453091,22,2025-12-31,2026-09-12T20:03:05.795012+00:00
+2025-12-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,15.00,15.000000,31,2025-12-31,2026-09-12T20:02:56.791651+00:00
+2025-12-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.33,0.330000,1,2025-12-01,2026-09-12T20:03:03.956070+00:00
+2025-12-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.1,5.100000,1,2025-12-01,2026-09-12T20:03:10.389013+00:00
+2026-01-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2301,5.338024,21,2026-01-30,2026-09-12T20:03:05.795012+00:00
+2026-01-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,15.00,15.000000,31,2026-01-31,2026-09-12T20:02:56.791651+00:00
+2026-01-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.33,0.330000,1,2026-01-01,2026-09-12T20:03:03.956070+00:00
+2026-01-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.4,5.400000,1,2026-01-01,2026-09-12T20:03:10.389013+00:00
+2026-02-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1495,5.200617,18,2026-02-27,2026-09-12T20:03:05.795012+00:00
+2026-02-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,15.00,15.000000,28,2026-02-28,2026-09-12T20:02:56.791651+00:00
+2026-02-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.70,0.700000,1,2026-02-01,2026-09-12T20:03:03.956070+00:00
+2026-02-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.8,5.800000,1,2026-02-01,2026-09-12T20:03:10.389013+00:00
+2026-03-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.2194,5.231586,22,2026-03-31,2026-09-12T20:03:05.795012+00:00
+2026-03-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.75,14.895161,31,2026-03-31,2026-09-12T20:02:56.791651+00:00
+2026-03-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.88,0.880000,1,2026-03-01,2026-09-12T20:03:03.956070+00:00
+2026-03-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,6.1,6.100000,1,2026-03-01,2026-09-12T20:03:10.389013+00:00
+2026-04-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,4.9886,5.033075,20,2026-04-30,2026-09-12T20:03:05.795012+00:00
+2026-04-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.50,14.741667,30,2026-04-30,2026-09-12T20:02:56.791651+00:00
+2026-04-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.67,0.670000,1,2026-04-01,2026-09-12T20:03:03.956070+00:00
+2026-04-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.8,5.800000,1,2026-04-01,2026-09-12T20:03:10.389013+00:00
+2026-05-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0569,4.983700,20,2026-05-29,2026-09-12T20:03:05.795012+00:00
+2026-05-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.50,14.500000,31,2026-05-31,2026-09-12T20:02:56.791651+00:00
+2026-05-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.58,0.580000,1,2026-05-01,2026-09-12T20:03:03.956070+00:00
+2026-05-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.6,5.600000,1,2026-05-01,2026-09-12T20:03:10.389013+00:00
+2026-06-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1766,5.127571,21,2026-06-30,2026-09-12T20:03:05.795012+00:00
+2026-06-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.25,14.391667,30,2026-06-30,2026-09-12T20:02:56.791651+00:00
+2026-06-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.16,0.160000,1,2026-06-01,2026-09-12T20:03:03.956070+00:00
+2026-06-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.4,5.400000,1,2026-06-01,2026-09-12T20:03:10.389013+00:00
+2026-07-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0773,5.113948,23,2026-07-31,2026-09-12T20:03:05.795012+00:00
+2026-07-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.25,14.250000,31,2026-07-31,2026-09-12T20:02:56.791651+00:00
+2026-07-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,0.07,0.070000,1,2026-07-01,2026-09-12T20:03:03.956070+00:00
+2026-07-01,24369,unemployment,Taxa de desocupação,Trabalho,%,monthly,5.3,5.300000,1,2026-07-01,2026-09-12T20:03:10.389013+00:00
+2026-08-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.1816,5.153162,21,2026-08-31,2026-09-12T20:03:05.795012+00:00
+2026-08-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.00,14.040323,31,2026-08-31,2026-09-12T20:02:56.791651+00:00
+2026-08-01,433,ipca_monthly,IPCA mensal,Inflação,% a.m.,monthly,-0.32,-0.320000,1,2026-08-01,2026-09-12T20:03:03.956070+00:00
+2026-09-01,1,usd_brl,Dólar comercial,Câmbio,R$/US$,daily,5.0918,5.112000,8,2026-09-11,2026-09-12T20:03:05.795012+00:00
+2026-09-01,432,selic_target,Meta Selic,Juros,% a.a.,daily,14.00,14.000000,12,2026-09-12,2026-09-12T20:02:56.791651+00:00

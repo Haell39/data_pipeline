@@ -1,0 +1,58 @@
+version: 2
+
+models:
+  - name: dim_economic_indicator
+    description: Catálogo governado das séries econômicas utilizadas no produto analítico.
+    columns:
+      - name: series_code
+        description: Código da série no SGS/BCB.
+        data_tests:
+          - unique
+          - not_null
+      - name: indicator_key
+        description: Identificador estável utilizado nos modelos e no dashboard.
+        data_tests:
+          - unique
+          - not_null
+
+  - name: fct_economic_observations
+    description: Fato incremental com uma observação por indicador e data.
+    columns:
+      - name: observation_key
+        data_tests:
+          - unique
+          - not_null
+      - name: series_code
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_economic_indicator')
+                field: series_code
+      - name: observation_date
+        data_tests:
+          - not_null
+      - name: value
+        data_tests:
+          - not_null
+
+  - name: mart_economic_monthly
+    description: Série mensal certificada para exploração e visualização.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [month, series_code]
+    columns:
+      - name: month
+        data_tests:
+          - not_null
+      - name: end_of_period_value
+        data_tests:
+          - not_null
+
+  - name: mart_economic_dashboard
+    description: Métricas mensais prontas para a página executiva do Streamlit.
+    columns:
+      - name: month
+        data_tests:
+          - unique
+          - not_null

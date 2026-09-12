@@ -1,0 +1,13 @@
+data_pipeline:
+  target: ci
+  outputs:
+    ci:
+      type: snowflake
+      account: example-account
+      user: ci-user
+      password: not-used-during-parse
+      role: DBT_ROLE
+      database: DBT_DB
+      warehouse: DBT_WH
+      schema: DBT_SCHEMA
+      threads: 2

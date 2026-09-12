@@ -1,0 +1,14 @@
+version: 2
+
+exposures:
+  - name: pulso_economico_brasil
+    label: Pulso Econômico Brasil
+    type: dashboard
+    maturity: medium
+    description: Aplicação Streamlit pública que consome apenas marts certificados pelo dbt.
+    depends_on:
+      - ref('mart_economic_monthly')
+      - ref('mart_economic_dashboard')
+    owner:
+      name: Rafael Dutra
+      email: rafaeldutrapro@gmail.com
