@@ -1,0 +1,25 @@
+dbt init
+
+project: data_pipeline
+database adapter: snowflake
+account: AYDWVYM-IB61586
+user: RAELDUTRASNOW
+authentication: password
+role: DBT_ROLE
+warehouse: DBT_WH
+database: DBT_DB
+schema: DBT_SCHEMA
+threads: 10
+
+criou automaticamente:
+analyses/
+macros/
+models/
+seeds/
+snapshots/
+tests/
+dbt_project.yml
+README.md
+
+cd .\data_pipeline
+dbt debug
