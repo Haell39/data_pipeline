@@ -1,5 +1,9 @@
 # Pulso Econômico Brasil
 
+[![CI](https://github.com/Haell39/data_pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Haell39/data_pipeline/actions/workflows/ci.yml)
+[![Dashboard](https://img.shields.io/badge/dashboard-online-00A67E?logo=streamlit&logoColor=white)](https://pulso-economico-brasil.streamlit.app/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Plataforma de dados que transforma séries públicas do Banco Central do Brasil em métricas econômicas documentadas, testadas e prontas para consumo.
 
 O objetivo é demonstrar um fluxo completo e proporcional ao problema: ingestão incremental com Airflow, armazenamento no Snowflake, transformação e qualidade com dbt e uma aplicação pública em Streamlit + Plotly.
