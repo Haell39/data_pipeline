@@ -4,6 +4,8 @@ Plataforma de dados que transforma séries públicas do Banco Central do Brasil 
 
 O objetivo é demonstrar um fluxo completo e proporcional ao problema: ingestão incremental com Airflow, armazenamento no Snowflake, transformação e qualidade com dbt e uma aplicação pública em Streamlit + Plotly.
 
+Documentação técnica: [arquitetura](docs/architecture.md) · [fluxo de dados e atualização](docs/data-flow.md).
+
 ![Visão geral do Pulso Econômico Brasil](docs/assets/dashboard-overview.png)
 
 ## Arquitetura

@@ -69,6 +69,20 @@ st.markdown(
       .hero-title { font-size:clamp(2rem,5vw,4.6rem); line-height:.98; font-weight:700; margin:.35rem 0 .75rem; }
       .hero-copy { color:#a9bbb1; max-width:760px; font-size:1.02rem; }
       .status-line { color:#91a39a; font-size:.84rem; }
+      .update-status {
+        background:linear-gradient(145deg, rgba(34,197,94,.16), rgba(16,185,129,.08));
+        border:1px solid rgba(34,197,94,.34); border-radius:12px;
+        padding:.8rem .9rem; margin:.25rem 0 .7rem;
+      }
+      .update-status-title { color:#bbf7d0; font-size:.9rem; font-weight:700; }
+      .update-status-dot {
+        display:inline-block; width:.5rem; height:.5rem; margin-right:.5rem;
+        border-radius:999px; background:#22c55e; box-shadow:0 0 10px rgba(34,197,94,.72);
+      }
+      .update-status-detail { color:#91a39a; font-size:.76rem; margin-top:.35rem; }
+      .snapshot-status { border-color:rgba(145,163,154,.22); background:rgba(23,42,34,.58); }
+      .snapshot-status .update-status-title { color:#cfe1d7; }
+      .snapshot-status .update-status-dot { background:#91a39a; box-shadow:none; }
       .insight {
         background:rgba(23,42,34,.72); border:1px solid rgba(94,234,212,.18);
         border-radius:14px; padding:1rem 1.1rem; color:#cfe1d7;
@@ -196,6 +210,12 @@ if data.empty:
 
 minimum_month = data["month"].min().date()
 maximum_month = data["month"].max().date()
+latest_loaded_at = pd.to_datetime(data["loaded_at"], errors="coerce", utc=True).max()
+latest_sync_label = (
+    latest_loaded_at.tz_convert("America/Sao_Paulo").strftime("%d/%m/%Y às %H:%M")
+    if pd.notna(latest_loaded_at)
+    else "não informada"
+)
 
 with st.sidebar:
     st.markdown("### Pulso Econômico")
@@ -212,7 +232,27 @@ with st.sidebar:
         default=sorted(data["category"].dropna().unique()),
     )
     st.divider()
-    st.caption(f"Modo de atualização: **{source_label}**")
+    if source_label == "Atualização automática":
+        st.markdown(
+            f"""
+            <div class="update-status">
+              <div class="update-status-title"><span class="update-status-dot"></span>Atualização automática</div>
+              <div class="update-status-detail">Última sincronização: {latest_sync_label}</div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+        st.caption("Agendada diariamente às 06:00 · cache de até 1 hora")
+    else:
+        st.markdown(
+            """
+            <div class="update-status snapshot-status">
+              <div class="update-status-title"><span class="update-status-dot"></span>Base consolidada</div>
+              <div class="update-status-detail">Última versão disponível para consulta</div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
     st.caption("Dados: Sistema Gerenciador de Séries Temporais — Banco Central do Brasil")
 
 filtered = data.loc[
