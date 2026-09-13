@@ -116,6 +116,12 @@ def load_live() -> pd.DataFrame:
     """
     frame = connection.query(query, ttl=3600)
     frame.columns = [column.lower() for column in frame.columns]
+    for column in ["month", "last_observation_date", "loaded_at"]:
+        if column in frame.columns:
+            frame[column] = pd.to_datetime(frame[column], errors="coerce")
+    for column in ["value", "monthly_average"]:
+        if column in frame.columns:
+            frame[column] = pd.to_numeric(frame[column], errors="coerce")
     return frame
 
 
