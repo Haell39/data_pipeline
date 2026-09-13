@@ -4,4 +4,4 @@ pandas>=2.2,<3
 plotly>=6,<7
 python-dotenv>=1,<2
 requests>=2.32,<3
-streamlit>=1.54,<2
+streamlit[snowflake]>=1.54,<2
